@@ -91,3 +91,5 @@ while True:
 
 
 # TODO: Create a GUI for this tool.
+
+# TODO: Mention in readme that PIL is required for this tool to work, explain how to install it.
